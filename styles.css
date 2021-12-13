@@ -81,7 +81,7 @@ p {
 .card {
     background-color: var(--white);
     margin-bottom: 1.875rem;
-    padding: 2rem 2rem 1.25rem;
+    padding: 2rem 2rem 1.5rem;
     max-width: 350px;
     height: 250px;
     border-radius: 0.5rem;
