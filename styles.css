@@ -39,7 +39,7 @@ h1, h2 {
 h1 {
     font-size: 1.6875rem;
     line-height: 1.4;
-    margin: 0 0 1.125rem;
+    margin: 0 0 1rem;
 }
 
 p {
@@ -154,7 +154,7 @@ p {
 
 @media (min-width: 760px) {
     h1 {
-        font-size: 2.25rem;
+        font-size: 2.275rem;
     }
 
     .row {
